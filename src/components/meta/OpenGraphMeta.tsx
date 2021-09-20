@@ -16,6 +16,7 @@ export default function OpenGraphMeta({
   return (
     <Head>
       <meta property="og:site_name" content={config.site_title} />
+      <meta name="google-site-verification" content="lhArVROZlxKjQJTPYHSx4TzY9m21O_CAlxpToylyUWc" />
       <meta property="og:url" content={config.base_url + url} />
       <meta
         property="og:title"
