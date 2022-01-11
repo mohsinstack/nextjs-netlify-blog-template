@@ -1,4 +1,4 @@
-import Layout from "../components/Layout";
+mimport Layout from "../components/Layout";
 import BasicMeta from "../components/meta/BasicMeta";
 import OpenGraphMeta from "../components/meta/OpenGraphMeta";
 import TwitterCardMeta from "../components/meta/TwitterCardMeta";
@@ -13,10 +13,10 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're Next.js & Netlify<span className="fancy">.</span>
+            Hi, Welcome to the Best Digital Marketing Agency<span className="fancy">.</span>
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
-          <h2>A blog template with Next.js and Netlify.</h2>
+          <span className="handle">@morkiz-digital</span>
+          <h2>Result-Oriented Data-Driven, Affordable - SEO, SMM, PPC Services</h2>
           <SocialList />
         </div>
       </div>
